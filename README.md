@@ -1,6 +1,6 @@
-### Hey there 👋, I'm Hayden - Welcome to my GitHub
+### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
-- &nbsp; I'm currently working on my personal portfolio
+- &nbsp; I'm currently working on my portfolio website
 - &nbsp; I'm currently learning Next.js
 - &nbsp; I'm currently looking for an internship! 
 
