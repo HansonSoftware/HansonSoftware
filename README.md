@@ -1,8 +1,8 @@
 ### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
 - &nbsp; I'm currently working on my portfolio website
-- &nbsp; I'm currently learning Next.js
-- &nbsp; I'm currently looking for an internship! 
+- &nbsp; Learning Next.js
+- &nbsp; Looking for an internship! 
 
 ### 🎓 Education
 - I am a third year Applied Computer Science student at George Mason University
