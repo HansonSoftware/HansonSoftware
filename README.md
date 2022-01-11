@@ -30,6 +30,6 @@
 
 
 [website]: https://mason.gmu.edu/~hhanson2/
-<!-- [youtube]: https://www.youtube.com/channel/UCubJL3Tyx0fPd39k38eUgvw -->
+[youtube]: https://www.youtube.com/channel/UCubJL3Tyx0fPd39k38eUgvw
 [twitter]: https://twitter.com/hansonhayd3n
 [linkedin]: linkedin.com/in/hansonhayden 
