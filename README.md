@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
-- &nbsp; I'm currently working on my C Course
-- &nbsp; Learning Next.js
+- &nbsp; I'm currently working on a Unix Shell
+- &nbsp; Learning Flutter
 - &nbsp; Looking for an internship! 
 
 ### 🎓 Education
