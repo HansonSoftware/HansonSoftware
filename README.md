@@ -11,6 +11,7 @@
 
 ### ✍ Coming Soon
 
+- &nbsp; Pocket Recipes
 - &nbsp; Twootr
 - &nbsp; Budgetting App
 - &nbsp; Paralax Website
@@ -19,6 +20,7 @@
 ### 🔐 Private Repositories
 
 - &nbsp; Power Connect Four
+- &nbsp; Java Interpreter
 - &nbsp; Huffman Coding
 - &nbsp; Graph Algorithm Visualizer
 - &nbsp; Scheduler (KAIA)
