@@ -9,16 +9,12 @@
 - I have a concentration in Software Enginnering
 - I am always learning something new!
 
-<br />
-
 ### ✍ Coming Soon
 
 - &nbsp; Twootr
 - &nbsp; Budgetting App
 - &nbsp; Paralax Website
 - &nbsp; Fixes to Website V1
-
-<br />
 
 ### 🔐 Private Repositories
 
@@ -29,15 +25,11 @@
 - &nbsp; Floating Point Encoding Calculator
 - &nbsp; UNIX Shell
 
-<br />
-
 ### 👨‍💻 Connect with me
 [<img align = "left" alt = "portfolio" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 [website]: https://mason.gmu.edu/~hhanson2/
 [youtube]: https://www.youtube.com/channel/UCubJL3Tyx0fPd39k38eUgvw
