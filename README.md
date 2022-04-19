@@ -15,6 +15,14 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+### ✍ Private Repositories
+- &nbsp; Power Connect Four
+- &nbsp; Huffman Coding
+- &nbsp; Graph Algorithm Visualizer
+- &nbsp; Scheduler (KAIA)
+- &nbsp; Floating Point Encoding Calculator
+- &nbsp; UNIX Shell
+
 <br />
 
 [website]: https://mason.gmu.edu/~hhanson2/
