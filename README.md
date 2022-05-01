@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
-- &nbsp; I'm currently working on a Unix Shell
+- &nbsp; I'm currently working on Pocket Recipes, a Flutter Mobile Application
 - &nbsp; Learning Flutter
 - &nbsp; Looking for an internship! 
 
@@ -12,8 +12,6 @@
 ### ✍ Coming Soon
 
 - &nbsp; Pocket Recipes
-- &nbsp; Twootr
-- &nbsp; Budgetting App
 - &nbsp; Paralax Website
 - &nbsp; Fixes to Website V1
 
