@@ -1,17 +1,16 @@
 ### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
-- &nbsp; I'm currently working on Pocket Recipes, a Flutter Mobile Application
+- &nbsp; I'm currently working on My portfolio website
 - &nbsp; Learning Flutter
 - &nbsp; Looking for an internship! 
 
 ### 🎓 Education
-- I am a third year Applied Computer Science student at George Mason University
+- I am a fourth year Applied Computer Science student at George Mason University graduating Fall 2023
 - I have a concentration in Software Enginnering
 - I am always learning something new!
 
 ### ✍ Coming Soon
 
-- &nbsp; Pocket Recipes
 - &nbsp; Paralax Website
 - &nbsp; Fixes to Website V1
 
