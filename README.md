@@ -1,18 +1,13 @@
 ### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
-- &nbsp; I'm currently working on My portfolio website
+- &nbsp; I'm currently working on Pocket Recipes
 - &nbsp; Learning Flutter
 - &nbsp; Looking for an internship! 
 
-### 🎓 Education
-- I am a fourth year Applied Computer Science student at George Mason University graduating Fall 2023
-- I have a concentration in Software Enginnering
-- I am always learning something new!
-
 ### ✍ Coming Soon
 
-- &nbsp; Paralax Website
-- &nbsp; Fixes to Website V1
+- &nbsp; Web Terminal
+- &nbsp; Updates to Portfolio-Website-V1
 
 ### 🔐 Private Repositories
 
@@ -24,7 +19,7 @@
 - &nbsp; Floating Point Encoding Calculator
 - &nbsp; UNIX Shell
 
-### 👨‍💻 Connect with me
+### 👨‍💻 Connect with me!
 [<img align = "left" alt = "portfolio" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
