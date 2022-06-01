@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Hayden - Welcome to my GitHub
 
-- &nbsp; I'm currently working on Pocket Recipes
-- &nbsp; Learning Flutter
+- &nbsp; I'm currently working on my Portfolio Website
+- &nbsp; Learning *Real-World Software Developement* by Raoul-Gabriel Urma & Richard Warburton
 - &nbsp; Looking for an internship! 
 
 ### ✍ Coming Soon
