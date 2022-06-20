@@ -4,12 +4,7 @@
 - &nbsp; Learning *Real-World Software Developement* by Raoul-Gabriel Urma & Richard Warburton
 - &nbsp; Looking for an internship! 
 
-### ✍ Coming Soon
-
-- &nbsp; Web Terminal
-- &nbsp; Updates to Portfolio-Website-V1
-
-### 🔐 Private Repositories
+### 🔐 Private Repositories (Email Me)
 
 - &nbsp; Power Connect Four
 - &nbsp; Java Interpreter
