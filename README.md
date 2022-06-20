@@ -1,8 +1,8 @@
-### Hey there 👋 I'm Hayden - Welcome to my GitHub
+### Hey, I'm Hayden 👋
 
 - &nbsp; I'm currently working on my Portfolio Website
-- &nbsp; Learning *Real-World Software Developement* by Raoul-Gabriel Urma & Richard Warburton
-- &nbsp; Looking for an internship! 
+- &nbsp; Learning vanilla JavaScript and React
+- &nbsp; Looking for a Fall internship!
 
 ### 🔐 Private Repositories (Email Me)
 
