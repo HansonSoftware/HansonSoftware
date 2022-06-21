@@ -1,10 +1,10 @@
-### Hey, I'm Hayden 👋 Welcome to my collection of projects
+### 👋 I'm Hayden, Welcome to my GitHub
 
 - &nbsp; I'm currently working on my Portfolio Website
 - &nbsp; Learning vanilla JavaScript and React
 - &nbsp; Looking for a Fall internship!
 
-### 🔐 Private Repositories (Email Me)
+### 🔐 Private Repositories (GMU Projects)
 
 - &nbsp; Power Connect Four
 - &nbsp; Java Interpreter
