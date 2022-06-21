@@ -1,4 +1,4 @@
-### Hey, I'm Hayden 👋
+### Hey, I'm Hayden 👋 Welcome to my collection of projects
 
 - &nbsp; I'm currently working on my Portfolio Website
 - &nbsp; Learning vanilla JavaScript and React
