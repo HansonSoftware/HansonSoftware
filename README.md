@@ -15,10 +15,10 @@
 - &nbsp; UNIX Shell
 
 ### 👨‍💻 Connect with me!
-[<img align = "left" alt = "portfolio" width = "28px" height="28px" src = "https://toppng.com/uploads/preview/internet-logo-png-icon-internet-free-11563250191bcvhiq56ya.png" />][website]
-[<img align="left" alt="YouTube" width="28px" height="28px" src="https://freesvg.org/img/video-player-YouTube.png" />][youtube]
-[<img align="left" alt="Twitter" width="28px" height="28px" src="https://freesvg.org/img/1435464086.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="28px" height="28px" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" />][linkedin]
+[<img align = "left" alt = "portfolio" width = "28px" height="28px" src = "https://img.icons8.com/stickers/344/cloud-network.png" />][website]
+[<img align="left" alt="YouTube" width="28px" height="28px" src="https://img.icons8.com/plasticine/344/youtube-play--v2.png" />][youtube]
+[<img align="left" alt="Twitter" width="28px" height="28px" src="https://img.icons8.com/fluency/344/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="28px" height="28px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
 
 [website]: https://mason.gmu.edu/~hhanson2/
 [terminal]: https://hansonsoftware.github.io/
