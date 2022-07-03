@@ -2,7 +2,7 @@
 
 - &nbsp; I'm currently working on my Portfolio Website
 - &nbsp; Learning vanilla JavaScript and React
-- &nbsp; Looking for a Fall internship!
+- &nbsp; Looking for a Fall/Spring internship!
 
 ### 🔐 Private Repositories (GMU Projects)
 
