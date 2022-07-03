@@ -10,7 +10,7 @@
 - &nbsp; Java Interpreter
 - &nbsp; Huffman Coding
 - &nbsp; Graph Algorithm Visualizer
-- &nbsp; Scheduler (KAIA)
+- &nbsp; Process Scheduler (KAIA)
 - &nbsp; Floating Point Encoding Calculator
 - &nbsp; UNIX Shell
 
