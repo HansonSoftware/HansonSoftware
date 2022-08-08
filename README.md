@@ -1,7 +1,7 @@
 ### 👋 I'm Hayden, Welcome to my GitHub
 
 - &nbsp; I'm currently working on my Portfolio Website
-- &nbsp; Learning vanilla JavaScript and React
+- &nbsp; Re-Learning vanilla JavaScript and React
 - &nbsp; Looking for a Fall/Spring internship in the Fairfax area!
 
 ### 🔐 Private Repositories (GMU Projects)
