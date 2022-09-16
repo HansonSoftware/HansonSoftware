@@ -1,8 +1,9 @@
 ### 👋 I'm Hayden, Welcome to my GitHub
 
-- &nbsp; I'm currently working on my Portfolio Website
+- &nbsp; I'm currently working on a Music-Player Web Application! 
+  - I'm using Node.js, Heroku, React.js and Firebase to build this from scratch.
 - &nbsp; Re-Learning vanilla JavaScript and React
-- &nbsp; Looking for a Fall/Spring internship in the Fairfax area!
+- &nbsp; Looking for a Fall/Spring internship in the Fairfax area (very open to working remotely as well)!
 
 ### 🔐 Private Repositories (GMU Projects)
 
