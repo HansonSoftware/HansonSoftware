@@ -14,8 +14,10 @@
 - &nbsp; Floating Point Encoding Calculator
 - &nbsp; UNIX Shell
 
+### 🖥️ Check Out My Personal Site [<img align = "left" alt = "portfolio" width = "28px" height="28px" src = "https://img.icons8.com/stickers/344/cloud-network.png" />][website]
+
+
 ### 👨‍💻 Connect with me!
-[<img align = "left" alt = "portfolio" width = "28px" height="28px" src = "https://img.icons8.com/stickers/344/cloud-network.png" />][website]
 [<img align="left" alt="YouTube" width="28px" height="28px" src="https://img.icons8.com/plasticine/344/youtube-play--v2.png" />][youtube]
 [<img align="left" alt="Twitter" width="28px" height="28px" src="https://img.icons8.com/fluency/344/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="28px" height="28px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
