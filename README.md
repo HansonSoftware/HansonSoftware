@@ -14,7 +14,7 @@
 - &nbsp; Floating Point Encoding Calculator
 - &nbsp; UNIX Shell
 
-### 🖥️ Check Out My Personal Site [<img align = "left" alt = "portfolio" width = "28px" height="28px" src = "https://img.icons8.com/stickers/344/cloud-network.png" />][website]
+### Check Out My Personal Site [<img align = "left" alt = "portfolio" width = "28px" height="28px" src = "https://img.icons8.com/stickers/344/cloud-network.png" />][website]
 
 
 ### 👨‍💻 Connect with me!
