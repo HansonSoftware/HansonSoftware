@@ -2,7 +2,7 @@
 
 - &nbsp; I'm currently working on a Music-Player Web Application! 
   - &nbsp; I'm using the FERN stack to build this from scratch.
-- &nbsp; Looking for a Fall/Spring internship in the Fairfax area (very open to working remotely as well)!
+- &nbsp; Looking for a Summer 2023 internship in the Fairfax area (very open to working remotely as well)
 
 ### 🔐 Private Repositories (GMU Projects)
 
