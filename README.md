@@ -37,4 +37,3 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 </p>
-[CodePen]: https://codepen.io/hansonsoftware
