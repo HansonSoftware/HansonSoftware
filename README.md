@@ -1,7 +1,6 @@
 ### 👋 I'm Hayden, Welcome to my GitHub
 
-- &nbsp; I'm currently working on a Music-Player Web Application! 
-  - &nbsp; I'm using the FERN stack to build this from scratch
+- &nbsp; I'm currently working on a To-Do list web app.
 - &nbsp; Senior at GMU, Graduating in December of 2023
 - &nbsp; Looking for a Summer 2023 internship in the Fairfax area (very open to working remotely as well)
 
