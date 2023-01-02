@@ -29,7 +29,7 @@
 
 <p align="center">
 
-<a href="https://mason.gmu.edu/~hhanson2/" target="_blank">
+<a href="https://haydenhanson.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-brightgreen" alt="Portfolio" /></a> 
 
 <a href="https://www.linkedin.com/in/hansonhayden/" target="_blank">
