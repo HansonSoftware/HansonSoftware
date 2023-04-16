@@ -1,18 +1,8 @@
 ### 👋 I'm Hayden, Welcome to my GitHub
 
-- &nbsp; I'm currently working on a Day planner / To-Do list web app.
-- &nbsp; Senior at GMU, Graduating in December of 2023
-- &nbsp; Looking for a Summer 2023 internship in the Fairfax area (very open to working remotely as well)
-
-### 🔐 Private Repositories (GMU Projects)
-
-- &nbsp; Power Connect Four
-- &nbsp; Java Interpreter
-- &nbsp; Huffman Coding
-- &nbsp; Graph Algorithm Visualizer
-- &nbsp; Process Scheduler (KAIA)
-- &nbsp; Floating Point Encoding Calculator
-- &nbsp; UNIX Shell
+- &nbsp; I'm currently working on adding a blog to my website with MySQL, Prisma and tRPC.
+- &nbsp; Senior at GMU, Graduating in May of 2024
+- &nbsp; Looking for a Summer 2023 internship in Fairfax or Richmond VA (very open to working remotely as well!)
 
 ### 🛠️ Top Languages
 
