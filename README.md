@@ -12,11 +12,6 @@
 
 ### 🏆 Github Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=HansonSoftware&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HansonSoftware&theme=react" width="48%" >
-
-<br>
-
 <p align="center"> 💻 Connect with me! </p>
 
 <p align="center">
