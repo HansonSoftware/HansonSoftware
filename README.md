@@ -4,9 +4,11 @@
 - &nbsp; Senior at GMU, Graduating in May of 2024
 - &nbsp; Looking for a Summer 2023 internship in Fairfax or Richmond VA (very open to working remotely as well!)
 
-### 🛠️ Top Languages
+### 🛠️ Top Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansonSoftware&theme=react)](https://github.com/HansonSoftware/github-readme-stats)
+- &nbsp; Typescript
+- &nbsp; Java
+- &nbsp; Python
 
 ### 🏆 Github Stats
 
