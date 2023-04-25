@@ -10,8 +10,6 @@
 - &nbsp; Java
 - &nbsp; Python
 
-### 🏆 Github Stats
-
 <p align="center"> 💻 Connect with me! </p>
 
 <p align="center">
