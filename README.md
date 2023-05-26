@@ -1,6 +1,6 @@
 ### 👋 I'm Hayden, Welcome to my GitHub
 
-- &nbsp; I'm currently working on adding a blog to my website with MySQL, Prisma and tRPC.
+- &nbsp; I'm currently working on a job application app for my CS department. Building with NextJS, Tailwind, MySQL, Prisma and tRPC 🦾.
 - &nbsp; Senior at GMU, Graduating in May of 2024
 - &nbsp; Looking for a Summer 2023 internship in Fairfax or Richmond VA (very open to working remotely as well!)
 
