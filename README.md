@@ -17,12 +17,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansonSoftware&theme=react)](https://github.com/HansonSoftware/github-readme-stats)
 
-### 🏆 Github Stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=HansonSoftware&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<br>
-
-<p align="center"> 💻 Connect with me! </p>
+ 
+ 
+<p align="center">
+Check out my site
+</p>
 
 <p align="center">
 
