@@ -4,7 +4,7 @@
 - &nbsp; Side project: Working on the UTA Application Portal for my Computer Science Department.
 - &nbsp; Senior at GMU, Graduating in May of 2024.
 
-### Note For Recruiters: 🔐 Private Repositories (GMU Projects) available upon request.
+### Note: 🔐 Private Repositories (GMU Projects) available upon request.
 
 - &nbsp; Power Connect Four
 - &nbsp; Java Interpreter
