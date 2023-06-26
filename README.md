@@ -1,6 +1,7 @@
 ### 👋 I'm Hayden, Welcome to my GitHub
 
-- &nbsp; I'm currently working on the UTA Application Portal for my Computer Science Department.
+- &nbsp; I'm currently working at Developer Experience Design Lab on Hypothesizer.
+- &nbsp; Side project: Working on the UTA Application Portal for my Computer Science Department.
 - &nbsp; Senior at GMU, Graduating in May of 2024.
 
 ### Note For Recruiters: 🔐 Private Repositories (GMU Projects) available upon request.
