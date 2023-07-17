@@ -27,9 +27,9 @@
   </p>
 
 
-- &nbsp; I'm currently working at Developer Experience Design Lab on Hypothesizer.
+- &nbsp; I'm currently working at Developer Experience Design Lab.
 - &nbsp; Side project: Working on the UTA Application Portal for my Computer Science Department.
-- &nbsp; Senior at GMU, Graduating in May of 2024.
+- &nbsp; I'm a Senior at GMU, Graduating in May of 2024.
 
 ### Note: 🔐 Private Repositories (GMU Projects) available upon request.
 
