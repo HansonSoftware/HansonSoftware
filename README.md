@@ -26,11 +26,15 @@
   
   </p>
 
+<h1 align="center">Currently Working On 👨‍💻</h1>
+<div align="left">
+   <p>- &nbsp; I'm currently working at Developer Experience Design Lab.</p>
+   <p>- &nbsp; Side project: Working on an unofficial UTA Application Portal for my Computer Science Department.</p>
+   <p>- &nbsp; I'm a Senior at GMU, Graduating in May of 2024.</p>
+</div>
 
-- &nbsp; I'm currently working at Developer Experience Design Lab.
-- &nbsp; Side project: Working on the UTA Application Portal for my Computer Science Department.
-- &nbsp; I'm a Senior at GMU, Graduating in May of 2024.
 
+<h1 align="center">Projects</h1>
 <table>
 <tr><th>Featured Projects</th> </th><th>🔐 GMU Projects available upon request.</th></tr>
 <tr><td>
