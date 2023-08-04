@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/HansonSoftware/">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=36&duration=2000&pause=100&color=FDE68A&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=Hayden+Hanson;Software+Engineer" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=36&duration=2000&pause=100&color=ff7372&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=Hayden+Hanson;Software+Engineer" alt="Typing SVG" /> 
    </a>
 
    <br/>
@@ -9,13 +9,13 @@
        <img src="https://img.shields.io/badge/Portfolio-blue?style=plastic">
    </a>  
    <a href="https://haydenhanson.dev/resume.pdf">
-       <img src="https://img.shields.io/badge/Resume-yellow?style=plastic">
+       <img src="https://img.shields.io/badge/Resume-red?style=plastic">
    </a>  
    <a href="https://www.linkedin.com/in/hansonhayden/">
        <img src="https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin">
    </a>
    <a href="mailto:haydnhansondeve@gmail.com">
-       <img src="https://img.shields.io/badge/-Email-yellow?style=plastic&logo=gmail&logoColor=white">
+       <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white">
    </a>
    
    <br/> 
@@ -37,6 +37,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [UTA Application Portal](https://github.com/Three-Craftsmen/UTA-Job-Board) | <img alt="Stars" src="https://img.shields.io/github/stars/Three-Craftsmen/UTA-Job-Board?style=flat&labelColor=black"/> | ![TS](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript) ![React](https://img.shields.io/badge/React-black?style=flat&logo=React) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql) ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs) |
 | [Code Snippets](https://github.com/hansonsoftware/code-snippets) | <img alt="Stars" src="https://img.shields.io/github/stars/hansonsoftware/code-snippets?style=flat&labelColor=black"/> | ![TS](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript) ![React](https://img.shields.io/badge/React-black?style=flat&logo=React) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql) ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs) |
 | [Twootr](https://github.com/hansonsoftware/twootr) | <img alt="Stars" src="https://img.shields.io/github/stars/hansonsoftware/twootr?style=flat&labelColor=black"/> | ![TS](https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript) ![React](https://img.shields.io/badge/React-black?style=flat&logo=React) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql) ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=nextdotjs) |
 
