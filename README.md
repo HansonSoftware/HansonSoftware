@@ -24,11 +24,11 @@
 
 <h1 align="center">About Me 👨‍💻</h1>
 <div align="left">
-   <p>- &nbsp; I'm currently working at Developer Experience Design Lab.</p>
+   <p>- &nbsp; I'm currently working at Craftworks Software LLC (Self Employed) and am looking for full time Software Engineer positions.</p>
    <p>- &nbsp; Side project: Working on an unofficial UTA Application Portal for my Computer Science Department.</p>
    <p>- &nbsp; I'm a Senior at GMU, Graduating in May of 2024.</p>
    <p>- &nbsp; I'm the TA for SWE 432 (Web App Development) this semester!</p>
-   <p>- &nbsp; Languages I'm learning: Go, htmx.</p>
+   <p>- &nbsp; Languages I'm learning: Go lang, htmx.</p>
 </div>
 
 
@@ -51,6 +51,7 @@
 
 |Title | Technologies|
 |----|----|
+| OS 161 | ![C](https://img.shields.io/badge/C-blue) |
 | Power Connect Four | ![Java](https://img.shields.io/badge/Java-orange)  |
 | Byte Code Interpreter |![Java](https://img.shields.io/badge/Java-orange) |
 | Huffman Encoder | ![Java](https://img.shields.io/badge/Java-orange) |
@@ -58,7 +59,6 @@
 | Process Scheduler (KAIA VM) | ![C](https://img.shields.io/badge/C-blue)  |
 | Floating Point Encoding Calculator | ![C](https://img.shields.io/badge/C-blue)  |
 | Unix Terminal Shell | ![C](https://img.shields.io/badge/C-blue) |
-| OS 161 | ![C](https://img.shields.io/badge/C-blue) |
 
 </td></tr> </table>
 
