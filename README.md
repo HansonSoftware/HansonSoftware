@@ -27,8 +27,7 @@
    <p>- &nbsp; I'm currently working at Craftworks Software LLC (Self Employed) and am looking for full time Software Engineer positions.</p>
    <p>- &nbsp; Side project: Working on an unofficial UTA Application Portal for my Computer Science Department.</p>
    <p>- &nbsp; I'm a Senior at GMU, Graduating in May of 2024.</p>
-   <p>- &nbsp; I'm the TA for SWE 432 (Web App Development) this semester!</p>
-   <p>- &nbsp; Languages I'm learning: Go lang, htmx.</p>
+   <p>- &nbsp; Languages I'm learning: Go lang, Svelte</p>
 </div>
 
 
