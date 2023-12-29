@@ -1,39 +1,15 @@
 <p align="center">
-   <a href="https://github.com/HansonSoftware/">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=36&duration=2000&pause=100&color=ff7372&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=112&lines=Hayden+Hanson;Software+Engineer" alt="Typing SVG" /> 
-   </a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=42&duration=1000&pause=1000000000&color=f38ba8&center=true&vCenter=true&random=false&width=435&lines=Hayden+Hanson" alt="Typing SVG" /></a>
    <br/>
-  
-   <a href="https://haydenhanson.dev">
-       <img src="https://img.shields.io/badge/Portfolio-blue?style=plastic">
-   </a>  
-   <a href="https://haydenhanson.dev/resume.pdf">
-       <img src="https://img.shields.io/badge/Resume-red?style=plastic">
-   </a>  
-   <a href="https://www.linkedin.com/in/hansonhayden/">
-       <img src="https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin">
-   </a>
-   <a href="mailto:haydnhansondeve@gmail.com">
-       <img src="https://img.shields.io/badge/-Email-red?style=plastic&logo=gmail&logoColor=white">
-   </a>
-   
-   <br/> 
-  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=38&duration=2000&pause=1000000000&color=94E2D5&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+   <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=38&duration=3000&pause=1000000000&color=89DCEB&center=true&vCenter=true&random=false&width=435&lines=Designer" alt="Typing SVG" /></a>
+   <br/>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=38&duration=4000&pause=1000000000&color=74C7EC&center=true&vCenter=true&random=false&width=435&lines=Hobbyist" alt="Typing SVG" /></a>
   </p>
 
-<h1 align="center">About Me 👨‍💻</h1>
-<div align="left">
-   <p>- &nbsp; I'm currently working at Craftworks Software LLC (Self Employed) and am looking for full time Software Engineer positions.</p>
-   <p>- &nbsp; Side project: Working on an unofficial UTA Application Portal for my Computer Science Department.</p>
-   <p>- &nbsp; I'm a Senior at GMU, Graduating in May of 2024.</p>
-   <p>- &nbsp; Languages I'm learning: Go lang, Svelte</p>
-</div>
-
-
-<h1 align="center">Projects</h1>
 <table>
-<tr><th>Featured Projects</th> </th><th>🔐 GMU Projects available upon request.</th></tr>
+<tr><th>Featured Projects</th> </th><th>🔐 College Projects available upon request.</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -60,29 +36,4 @@
 | Unix Terminal Shell | ![C](https://img.shields.io/badge/C-blue) |
 
 </td></tr> </table>
-
-<h1 align="center">GitHub Stats</h1>
-
-<p align="center">
-   
-   <a href="https://github.com/HansonSoftware/">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansonsoftware&theme=aura_dark" alt="Stats" /> 
-   </a>
- 
-   <a href="https://github.com/HansonSoftware/">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hansonsoftware&theme=aura_dark" alt="Stats" /> 
-   </a>
-   
-   <a href="https://github.com/HansonSoftware/">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hansonsoftware&theme=aura_dark" alt="Stats" /> 
-   </a>
-
-   <a href="https://github.com/HansonSoftware/">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hansonsoftware&theme=aura_dark" alt="Stats" /> 
-   </a>
-
-   <a href="https://github.com/HansonSoftware/">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hansonsoftware&theme=aura_dark&utcOffset=8" alt="Stats" /> 
-   </a>
-</p>
  
