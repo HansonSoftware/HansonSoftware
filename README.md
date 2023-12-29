@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=48&duration=500&pause=1000000000&color=f38ba8&center=true&vCenter=true&random=false&width=435&lines=Hayden+Hanson" alt="Typing SVG" /></a>
    <br/>
   <br/>
@@ -7,7 +7,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=38&duration=3000&pause=1000000000&color=89DCEB&center=true&vCenter=true&random=false&width=435&lines=Designer" alt="Typing SVG" /></a>
    <br/>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=38&duration=4000&pause=1000000000&color=74C7EC&center=true&vCenter=true&random=false&width=435&lines=Hobbyist" alt="Typing SVG" /></a>
-  </p>
+  <br/>
+  <br/>
+  <a href="https://haydenhanson.dev"><img src="https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge" alt="Portfolio"></a>
+  </div>
+    <br/>
+
 
 <table>
 <tr><th>Featured Projects</th> </th><th>🔐 College Projects available upon request.</th></tr>
