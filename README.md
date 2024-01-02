@@ -39,7 +39,7 @@
 | Graph Algorithm Visualizer | ![Java](https://img.shields.io/badge/Java-orange) |
 | Process Scheduler (KAIA VM) | ![C](https://img.shields.io/badge/C-blue)  |
 | Floating Point Encoding Calculator | ![C](https://img.shields.io/badge/C-blue)  |
-| Unix Terminal Shell | ![C](https://img.shields.io/badge/C-blue) |
+| Unix Shell | ![C](https://img.shields.io/badge/C-blue) |
 
 </td></tr> </table>
  
