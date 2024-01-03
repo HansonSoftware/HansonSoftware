@@ -1,4 +1,5 @@
 <div align="center">
+  <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=48&duration=500&pause=1000000000&color=f38ba8&center=true&vCenter=true&random=false&width=435&lines=Hayden+Hanson" alt="Typing SVG" /></a>
    <br/>
   <br/>
