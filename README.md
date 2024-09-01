@@ -1,7 +1,7 @@
 # Hayden Hanson
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge)](https://haydenhanson.dev)
+[![Blog](https://img.shields.io/badge/Blog-cba6f7?style=for-the-badge)](https://haydenhanson.dev)
 
-Web Developer
+C# App Engineer & Web Developer
 
 Writing TypeScript wishing it was Go
